@@ -1,0 +1,8 @@
+{
+  "name": "Molasse Mentor",
+  "description": "A specialized AI Petrology Advisor for students, researchers, and professionals in geology, with a focus on petrology, mineralogy, and sedimentary basins.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
